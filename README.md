@@ -14,6 +14,10 @@
 
 # 💫 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 Data Engineer with **8+ years of experience** building large-scale pipelines, modernizing data infrastructure, and delivering analytics-ready data across **healthcare, insurance, and financial domains**. Currently completing an **MS in Data Science at Texas Tech University** (May 2026) with a **Databricks Data Engineer Associate** certification and a DataCamp Data Scientist track.
 
 At **Allstate** I designed real-time pipelines with PySpark and Kafka processing **500M+ daily records**, built reusable ETL frameworks that cut development time by **30%** and computing costs by **60%**, enhanced ML pipeline accuracy by **25%**, and implemented CI/CD, Docker, and Kubernetes for production-grade deployments.
@@ -21,6 +25,15 @@ At **Allstate** I designed real-time pipelines with PySpark and Kafka processing
 At **Blue Cross Blue Shield of North Carolina (via Accenture)** I built and optimized ETL pipelines processing **10TB+ of healthcare data**, achieving **99.5% pipeline uptime** and cutting query time by **60%** through partitioning, compression, and Airflow orchestration.
 
 Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech University — developing ML models and hurricane-pattern simulations to predict power-grid outages, supporting renewable energy research at the **National Wind Institute**.
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding Animation" width="320" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -223,57 +236,15 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📅 Contributions in the Last Year
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramanbarnwalgit81&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ramanbarnwalgit81)
+![GitHub Contributions](https://ghchart.rshah.org/29B5E8/ramanbarnwalgit81)
 
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/ramanbarnwalgit81/ramanbarnwalgit81/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚙️ **Note:** To activate the snake animation, create a GitHub Actions workflow in your profile repo. See setup instructions below.
-
-<details>
-<summary>🔧 Snake Animation Setup</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo (`ramanbarnwalgit81/ramanbarnwalgit81`):
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 
 
