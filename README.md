@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Raman+Barnwal+%F0%9F%91%8B;Data+Engineer+%7C+8%2B+Years+of+Experience;Building+Scalable+Data+Pipelines;MS+Data+Science+%40+Texas+Tech+University)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=ramancena&color=29B5E8&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/ramancena?style=for-the-badge&color=29B5E8)](https://github.com/ramancena)
+![Profile Views](https://komarev.com/ghpvc/?username=ramanbarnwalgit81&color=29B5E8&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/ramanbarnwalgit81?style=for-the-badge&color=29B5E8)](https://github.com/ramanbarnwalgit81)
 
 </div>
 
@@ -20,14 +20,13 @@ At **Allstate** I designed real-time pipelines with PySpark and Kafka processing
 
 At **Blue Cross Blue Shield of North Carolina (via Accenture)** I built and optimized ETL pipelines processing **10TB+ of healthcare data**, achieving **99.5% pipeline uptime** and cutting query time by **60%** through partitioning, compression, and Airflow orchestration.
 
-Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech University — developing ML models and hurricane-pattern simulations to predict power-grid outages, supporting renewable energy research at the **National Wind Institute**, and conducting data science workshops for university and high school students.
+Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech University — developing ML models and hurricane-pattern simulations to predict power-grid outages, supporting renewable energy research at the **National Wind Institute**.
 
 ---
 
 ## 🎯 Currently Working On
 
 - 🔬 **Graduate Research @ Texas Tech** — ML models & hurricane-pattern simulations to predict power-grid outages (National Wind Institute)
-- 🏫 **Teaching** — Running data science workshops for university and high school students
 - 🌱 Deepening expertise in **LLM-powered data pipelines** and AI-augmented ETL
 - 📖 Completing **MS in Data Science** at Texas Tech University (May 2026)
 - 💡 Exploring **dbt + Snowflake Cortex** for AI-native transformations
@@ -46,26 +45,82 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 
 ## 📌 Featured Projects
 
-| 🚀 Project | 🛠️ Tech Stack | 📝 Description |
-|---|---|---|
-| **Airbnb Analytics Pipeline** | Snowflake, dbt, AWS S3, Python | Medallion (Bronze→Silver→Gold) with incremental loading, SCD Type 2 snapshots, Jinja macros, and automated data quality testing |
-| **Uber Real-Time Pipeline** | Python, GCP, BigQuery | End-to-end pipeline transforming real-time trip, driver & fare data into a dimensional schema optimized for analytics |
-| **StockSage AI** | Dify, LLMs, REST APIs | AI chatbot orchestrating real-time price, RSI & news sentiment APIs into structured investment report pipelines |
-| **NL-to-SQL / dbt Generator** | LangChain, Snowflake, OpenAI | Converts plain-English questions into schema-aware SQL + dbt models against Snowflake, with a self-refining validation loop |
-| **Allstate Data Lake Framework** | AWS S3, Glue, Athena | Enterprise-scale ingestion framework loading multi-source structured & semi-structured data into AWS S3 |
+<div align="center">
+
+<a href="https://github.com/ramanbarnwalgit81/airbnb-analytics-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=airbnb-analytics-pipeline&theme=tokyonight&hide_border=false" />
+</a>
+<a href="https://github.com/ramanbarnwalgit81/uber-realtime-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=uber-realtime-pipeline&theme=tokyonight&hide_border=false" />
+</a>
+<a href="https://github.com/ramanbarnwalgit81/stocksage-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=stocksage-ai&theme=tokyonight&hide_border=false" />
+</a>
+<a href="https://github.com/ramanbarnwalgit81/nl-to-sql-dbt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=nl-to-sql-dbt&theme=tokyonight&hide_border=false" />
+</a>
+<a href="https://github.com/ramanbarnwalgit81/allstate-datalake-framework">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=allstate-datalake-framework&theme=tokyonight&hide_border=false" />
+</a>
+
+</div>
+
+> ⚠️ **Note:** Replace the repo names in the URLs above with your exact GitHub repository names once confirmed.
 
 ---
 
 ## 📜 Certifications
 
-| 🏅 Certification | 🏢 Issuer | 📅 Date |
-|---|---|---|
-| **Databricks Certified Data Engineer Associate** | Databricks | Oct 2025 |
-| **Associate Data Scientist in Python** (Career Track) | DataCamp | Jul 2025 |
-| **Data Engineer with Python** (Career Track) | DataCamp | Jul 2025 |
-| **Global ATSV Data Engineering Pilot Program** | Neueda Bootcamp (Allstate Sponsored) | Feb 2022 |
-| **Apache Spark with Scala — Hands On with Big Data** | Udemy | — |
-| **Gold Badge — Python & SQL (30 Days of Code)** | HackerRank | Apr 2020 |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="badge-databricks-data-engineer-associate.png" width="120" alt="Databricks Data Engineer Associate"/><br/>
+      <b>Data Engineer Associate</b><br/>
+      <sub>Databricks · Oct 2025</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="badge-databricks-spark-developer-associate.png" width="120" alt="Databricks Spark Developer Associate"/><br/>
+      <b>Spark Developer Associate</b><br/>
+      <sub>Databricks</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="badge-microsoft-fabric-data-engineer.png" width="120" alt="Microsoft Fabric Data Engineer Associate"/><br/>
+      <b>Fabric Data Engineer</b><br/>
+      <sub>Microsoft Certified · Associate</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="badge-azure-data-fundamentals.png" width="120" alt="Azure Data Fundamentals"/><br/>
+      <b>Azure Data Fundamentals</b><br/>
+      <sub>Microsoft Certified</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="badge-datacamp.png" width="120" alt="DataCamp"/><br/>
+      <b>Data Scientist Associate</b><br/>
+      <sub>DataCamp · Jul 2025</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="badge-datacamp.png" width="120" alt="DataCamp"/><br/>
+      <b>Data Engineer with Python</b><br/>
+      <sub>DataCamp · Jul 2025</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="badge-hackerrank-python.png" width="120" alt="HackerRank Python Gold"/><br/>
+      <b>Python — Gold Badge</b><br/>
+      <sub>HackerRank · 5 Stars</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="badge-hackerrank-sql.png" width="120" alt="HackerRank SQL Gold"/><br/>
+      <b>SQL — Gold Badge</b><br/>
+      <sub>HackerRank · 5 Stars</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -148,11 +203,11 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramancena&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramanbarnwalgit81&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ramancena&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ramanbarnwalgit81&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramancena&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanbarnwalgit81&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -162,7 +217,7 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramancena&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramanbarnwalgit81&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -172,7 +227,7 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramancena&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramanbarnwalgit81&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ramanbarnwalgit81)
 
 </div>
 
@@ -182,7 +237,7 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 
 <div align="center">
 
-![Snake animation](https://github.com/ramancena/ramancena/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ramanbarnwalgit81/ramanbarnwalgit81/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -191,7 +246,7 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 <details>
 <summary>🔧 Snake Animation Setup</summary>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+Create `.github/workflows/snake.yml` in your profile repo (`ramanbarnwalgit81/ramanbarnwalgit81`):
 
 ```yaml
 name: Generate Snake
@@ -220,21 +275,11 @@ jobs:
 ```
 </details>
 
----
 
-## 💡 Random Dev Quote
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=ramancena&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ramanbarnwalgit81&icon=5&color=6)](https://visitcount.itsvg.in)
 
 *Proudly built with passion for data engineering* 🚀
 
