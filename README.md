@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Animated Typing Header -->
@@ -53,32 +52,6 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contactramanpsna@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raman_barnwal81)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20806--559--5261-25D366?logo=whatsapp&logoColor=white)](tel:+18065595261)
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ramanbarnwalgit81/airbnb-analytics-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=airbnb-analytics-pipeline&theme=tokyonight&hide_border=false" />
-</a>
-<a href="https://github.com/ramanbarnwalgit81/uber-realtime-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=uber-realtime-pipeline&theme=tokyonight&hide_border=false" />
-</a>
-<a href="https://github.com/ramanbarnwalgit81/stocksage-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=stocksage-ai&theme=tokyonight&hide_border=false" />
-</a>
-<a href="https://github.com/ramanbarnwalgit81/nl-to-sql-dbt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=nl-to-sql-dbt&theme=tokyonight&hide_border=false" />
-</a>
-<a href="https://github.com/ramanbarnwalgit81/allstate-datalake-framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramanbarnwalgit81&repo=allstate-datalake-framework&theme=tokyonight&hide_border=false" />
-</a>
-
-</div>
-
-> ⚠️ **Note:** Replace the repo names in the URLs above with your exact GitHub repository names once confirmed.
 
 ---
 
@@ -235,18 +208,6 @@ Currently serving as a **Graduate Student Assistant (Research)** at Texas Tech U
 </div>
 
 ---
-
-## 📅 Contributions in the Last Year
-
-<div align="center">
-
-![GitHub Contributions](https://ghchart.rshah.org/29B5E8/ramanbarnwalgit81)
-
-</div>
-
----
-
-
 
 <div align="center">
 
