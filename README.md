@@ -17,7 +17,7 @@
 <tr>
 <td valign="top" width="60%">
 
-Data Engineer with **8+ years of experience** building large-scale pipelines, modernizing data infrastructure, and delivering analytics-ready data across **healthcare, insurance, and financial domains**. Currently completing an **MS in Data Science at Texas Tech University** (May 2026) with a **Databricks Data Engineer Associate** certification and a DataCamp Data Scientist track.
+Data Engineer with **8+ years of experience** building large-scale pipelines, modernizing data infrastructure, and delivering analytics-ready data across **healthcare, insurance, and financial domains**. Currently completing an **MS in Data Science at Texas Tech University** (May 2026) with various **Databricks** , **Azure** certification and a DataCamp Data Scientist track.
 
 At **Allstate** I designed real-time pipelines with PySpark and Kafka processing **500M+ daily records**, built reusable ETL frameworks that cut development time by **30%** and computing costs by **60%**, enhanced ML pipeline accuracy by **25%**, and implemented CI/CD, Docker, and Kubernetes for production-grade deployments.
 
