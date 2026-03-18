@@ -171,6 +171,7 @@ print("All processes nominal. Standing by for next mission.")
 
 ### 🔄 `[ DATA ENGINEERING ]`
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E35A16?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E35A16?style=for-the-badge&logo=apachespark&logoColor=FFD43B)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -223,50 +224,50 @@ print("All processes nominal. Standing by for next mission.")
 
 ---
 
-## `◈ ACHIEVEMENT_TOKENS.json`
+## `◈ ACHIEVEMENT_TOKENS.unlocked`
 
-```json
-{
-  "achievements": [
-    {
-      "rank": "🥇 GOLD",
-      "title": "Rawls Endowed Graduate Scholarship",
-      "scope": "MS in Data Science",
-      "origin": "Texas Tech University"
-    },
-    {
-      "rank": "⭐ STAR",
-      "title": "Allstate Star Performer Award",
-      "scope": "Exceptional delivery & performance",
-      "origin": "Allstate Insurance"
-    },
-    {
-      "rank": "🚀 XTRAMILER",
-      "title": "The XtraMiler Award",
-      "scope": "Going above and beyond",
-      "origin": "Accenture Solutions"
-    },
-    {
-      "rank": "🎖️ MERIT",
-      "title": "Full Merit Scholarship (2011–2015)",
-      "scope": "Bachelor of Engineering",
-      "origin": "Government of India"
-    },
-    {
-      "rank": "📄 ACADEMIC",
-      "title": "Best Paper Award",
-      "scope": "Research Excellence",
-      "origin": "Academic Conference"
-    },
-    {
-      "rank": "🌐 LEADERSHIP",
-      "title": "Mr. RYLA",
-      "scope": "Rotary Youth Leadership Award",
-      "origin": "Rotary International"
-    }
-  ]
-}
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/🏛️_SCHOLARSHIP-RAWLS_ENDOWED_GRADUATE-FFD700?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+      <b>Rawls Endowed Graduate Scholarship</b><br/>
+      <sub>MS in Data Science · Texas Tech University</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/⭐_ALLSTATE-STAR_PERFORMER_AWARD-00F0FF?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+      <b>Star Performer Award</b><br/>
+      <sub>Exceptional delivery & performance · Allstate Insurance</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/🚀_ACCENTURE-THE_XTRAMILER_AWARD-FF00FF?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+      <b>The XtraMiler Award</b><br/>
+      <sub>Going above and beyond · Accenture Solutions</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/🎖️_MERIT-FULL_MERIT_SCHOLARSHIP-00FF88?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+      <b>Full Merit Scholarship (2011–2015)</b><br/>
+      <sub>Bachelor of Engineering · Government of India</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/📄_ACADEMIC-BEST_PAPER_AWARD-FF6B35?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+      <b>Best Paper Award</b><br/>
+      <sub>Research Excellence · Academic Conference</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/🌐_ROTARY-MR._RYLA_AWARD-A855F7?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+      <b>Mr. RYLA</b><br/>
+      <sub>Rotary Youth Leadership Award · Rotary International</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
