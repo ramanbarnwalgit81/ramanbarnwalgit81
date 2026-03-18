@@ -26,35 +26,55 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="middle" width="55%">
 
-```
-╔══════════════════════════════════════════╗
-║         SYSTEM IDENTIFICATION            ║
-╠══════════════════════════════════════════╣
-║  NAME    : Raman Barnwal                 ║
-║  RANK    : Senior Data Engineer          ║
-║  XP      : 8+ Years                     ║
-║  DOMAIN  : Healthcare / Insurance / Renewable Energy ║
-║  NODE    : Texas Tech University         ║
-║  DEGREE  : MS Data Science (May 2026)    ║
-║  STATUS  : ██████████ ACTIVE             ║
-╚══════════════════════════════════════════╝
-```
-
-> 🔷 **DEPLOYMENT: ALLSTATE**
-> Architected real-time pipelines with PySpark & Kafka ingesting **500M+ daily records**. Built reusable ETL frameworks cutting dev time **↓30%** and compute costs **↓60%**. Boosted ML pipeline accuracy **↑25%**. Deployed with CI/CD, Docker & Kubernetes.
-
-> 🔶 **DEPLOYMENT: BLUE CROSS BLUE SHIELD (via Accenture)**
-> Engineered ETL pipelines processing **10TB+ of healthcare data**, hitting **99.5% uptime**, slashing query time **↓60%** via partitioning, compression & Airflow orchestration.
-
-> 🟣 **CURRENT PROTOCOL: NATIONAL WIND INSTITUTE @ TTU**
-> Developing ML models & hurricane-pattern simulations to predict power-grid outages and support renewable energy research.
+<table>
+  <tr><td colspan="2" align="center"><b>〔 SYSTEM IDENTIFICATION 〕</b></td></tr>
+  <tr><td><b>NAME</b></td><td>Raman Barnwal</td></tr>
+  <tr><td><b>RANK</b></td><td>Senior Data Engineer</td></tr>
+  <tr><td><b>XP</b></td><td>8+ Years</td></tr>
+  <tr><td><b>DOMAIN</b></td><td>Healthcare / Insurance / Renewable Energy</td></tr>
+  <tr><td><b>NODE</b></td><td>Texas Tech University</td></tr>
+  <tr><td><b>DEGREE</b></td><td>MS Data Science (May 2026)</td></tr>
+  <tr><td><b>STATUS</b></td><td><img src="https://img.shields.io/badge/●●●●●●●●●●-ACTIVE-00FF00?style=flat-square&labelColor=003300&color=00FF00" alt="ACTIVE"/></td></tr>
+</table>
 
 </td>
-<td valign="top" width="42%" align="center">
+<td valign="middle" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Matrix Code Rain" style="border-radius:12px;" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Matrix Code Rain" style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### `▸ DEPLOYMENT LOG`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔷 ALLSTATE**
+
+Architected real-time pipelines with PySpark & Kafka ingesting **500M+ daily records**. Built reusable ETL frameworks cutting dev time **↓30%** and compute costs **↓60%**. Boosted ML pipeline accuracy **↑25%**. Deployed with CI/CD, Docker & Kubernetes.
+
+</td>
+<td width="33%" valign="top">
+
+**🔶 BLUE CROSS BLUE SHIELD** *(via Accenture)*
+
+Engineered ETL pipelines processing **10TB+ of healthcare data**, hitting **99.5% uptime**, slashing query time **↓60%** via partitioning, compression & Airflow orchestration.
+
+</td>
+<td width="33%" valign="top">
+
+**🟣 NATIONAL WIND INSTITUTE @ TTU**
+
+Developing ML models & hurricane-pattern simulations to predict power-grid outages and support renewable energy research.
 
 </td>
 </tr>
