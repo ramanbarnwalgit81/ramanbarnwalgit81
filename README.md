@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MATRIX HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a1a,100:00F0FF&height=200&section=header&text=RAMAN_BARNWAL&fontSize=60&fontAlignY=55&animation=twinkling&fontColor=00F0FF&stroke=00F0FF&strokeWidth=2&desc=Data+%26+AI+Engineer+%2F%2F+Scientist&descAlignY=75&descSize=18&descColor=FF00FF" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a1a,100:00F0FF&height=200&section=header&text=RAMAN_BARNWAL&fontSize=60&fontAlignY=55&animation=twinkling&fontColor=00F0FF&stroke=00F0FF&strokeWidth=2&desc=Data+%7C+AI+Engineer+%2F%2F+Scientist&descAlignY=75&descSize=18&descColor=FF00FF" />
 
 <br/>
 
