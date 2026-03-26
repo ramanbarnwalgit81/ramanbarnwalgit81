@@ -297,14 +297,14 @@ print("All processes nominal. Standing by for next mission.")
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramanbarnwalgit81&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF&border_color=00F0FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanbarnwalgit81&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF" />
+<!-- FIXED: Using github-profile-summary-cards — highly stable alternative -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramanbarnwalgit81&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramanbarnwalgit81&theme=tokyonight" />
 
 <br/>
 
-<img width="80%" src="https://nirzak-streak-stats.vercel.app/?user=ramanbarnwalgit81&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F0FF&sideLabels=00F0FF" />
-
-
+<!-- FIXED: Using official stable streak-stats from demolab -->
+<img width="80%" src="https://streak-stats.demolab.com?user=ramanbarnwalgit81&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F0FF&sideLabels=00F0FF" />
 
 </div>
 
